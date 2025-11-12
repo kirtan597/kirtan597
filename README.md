@@ -63,6 +63,7 @@
 
 </div>
 
+<img width="605" height="756" alt="image" src="https://github.com/user-attachments/assets/2b7ed752-5993-45a8-9267-7395f5d2b7c8" />
 
 
 📊 GitHub Analytics
