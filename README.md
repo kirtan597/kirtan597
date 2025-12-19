@@ -86,15 +86,17 @@ https://kcartt.netlify.app/
 **Tech Stack:** React 18 • Vite • Tailwind CSS • Material UI • Node.js • Express • MongoDB • JWT  
 **Features:** Secure Auth • Admin Dashboard • Analytics • Real-time Cart • Payments • Responsive UI  
 
-🌐 Live Demo | 📁 GitHub  
+🌐 [Live Demo](https://kcartt.netlify.app/) | 📁 GitHub  
 
-🎬 **KPXHub – Entertainment Platform**  
-https://kpxhub.netlify.app/
+<br/>
 
-**Tech Stack:** React • JavaScript • CSS • Figma  
-**Features:** Movies • Music • Infinite Scroll • Search & Filters  
+🤖 **J.A.R.V.I.S – Neural AI Interface v2.5**  
+https://github.com/kirtan597/J-A-R-V-I-S
 
-🌐 Live Demo | 📁 GitHub  
+**Tech Stack:** Next.js 15 • Google Gemini 2.5 • Framer Motion • Tailwind CSS • TypeScript  
+**Features:** Holographic Cyberpunk UI • Live Code Visualization • Autonomous Reasoning • Voice/Chat Interface  
+
+🌐 [Live Demo](https://github.com/kirtan597/J-A-R-V-I-S) | 📁 [GitHub](https://github.com/kirtan597/J-A-R-V-I-S)
 
 </div>
 
