@@ -1,43 +1,134 @@
-👋 Hi, I'm Kirtan Panchal
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=🎓+B.Tech+Computer+Science+Student;💻+Full+Stack+Web+Developer;🚀+AI+%26+ML+Enthusiast;🎨+UI/UX+Design+Lover;🌟+Open+Source+Contributor;🔥+Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=22" /> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/> <img src="https://komarev.com/ghpvc/?username=kirtan597&label=Profile%20Views&color=00d9ff&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/kirtan597?label=Followers&style=for-the-badge&color=00d9ff&logo=github" /> <img src="https://img.shields.io/github/stars/kirtan597?label=Stars&style=for-the-badge&color=00d9ff&logo=github" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-🚀 About Me
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-🎓 B.Tech in Computer Science Engineering
-💻 Full Stack Developer passionate about building scalable apps
-🌱 Mastering MERN Stack, AI/ML & Cloud
-🤖 AI integration in web apps
-🎨 UI/UX design enthusiast
-🚀 Always learning & building
+# 👋 Hi, I'm Kirtan Panchal
 
-🌐 Portfolio: https://portfolio-2-0-green.vercel.app/
+<img src="https://readme-typing-svg.demolab.com/?lines=🎓+B.Tech+Computer+Science+Student;💻+Full+Stack+Web+Developer;🚀+AI+%26+ML+Enthusiast;🎨+UI/UX+Design+Lover;🌟+Open+Source+Contributor;🔥+Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=650&height=50&color=00D9FF&vCenter=true&pause=1000&size=22" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+
+<img src="https://komarev.com/ghpvc/?username=kirtan597&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/kirtan597?label=Followers&style=for-the-badge&color=00d9ff&logo=github" />
+<img src="https://img.shields.io/github/stars/kirtan597?label=Stars&style=for-the-badge&color=00d9ff&logo=github" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 **B.Tech in Computer Science Engineering**  
+💻 **Full Stack Developer** passionate about scalable applications  
+🌱 Currently mastering **MERN Stack, AI/ML & Cloud Technologies**  
+🤖 Exploring **AI integration in modern web apps**  
+🎨 UI/UX enthusiast with a modern design mindset  
+🚀 Always learning, building & improving  
+
+🌐 **Portfolio:** https://portfolio-2-0-green.vercel.app/
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-🛠️ Tech Arsenal
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java,php" /> <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,sass,tailwind" /> <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,laravel" /> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,netlify" /> <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,figma,vscode,postman" /> </div>
-📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirtan597&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan597&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtan597&theme=tokyonight" /> </div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java,php" />
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,sass,tailwind" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,laravel" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,netlify" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,figma,vscode,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirtan597&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan597&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan597&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtan597&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtan597&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kirtan597&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirtan597&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```js
+const kirtan = {
+  currentlyLearning: ["Next.js", "TypeScript", "Machine Learning", "DevOps"],
+  workingOn: ["Full Stack Web Apps", "AI Integration Projects"],
+  collaborating: ["Open Source", "Hackathons", "Tech Communities"],
+  askMeAbout: ["React", "Node.js", "UI/UX Design"],
+  funFact: "I debug with console.log() 😄"
+};
+</div>
 🌟 Featured Projects
 <div align="center">
 🛒 Kcart – Next-Gen E-commerce Platform
-
 https://kcartt.netlify.app/
 
 Tech Stack:
 React 18 • Vite • Tailwind CSS • Material UI • Node.js • Express • MongoDB • JWT
 
 Features:
-• Complete E-commerce Workflow
-• Secure User & Admin Authentication
-• Advanced Admin Dashboard with Analytics
-• Real-time Cart & Order Management
-• Multiple Payment Options
-• Fully Responsive & SEO Optimized UI
+✔ Secure User & Admin Authentication
+✔ Advanced Admin Dashboard & Analytics
+✔ Real-time Cart & Order Management
+✔ Multiple Payment Options
+✔ Fully Responsive & SEO Optimized
 
 🌐 Live Demo | 📁 GitHub
 
 🎬 KPXHub – Entertainment Platform
-
 https://kpxhub.netlify.app/
 
 Tech Stack: React • JavaScript • CSS • Figma
@@ -48,24 +139,19 @@ Features: Movies • Music • Infinite Scroll • Search & Filters
 </div>
 📞 Connect With Me
 <div align="center">
+🌐 Portfolio: https://portfolio-2-0-green.vercel.app/
+🐙 GitHub: https://github.com/kirtan597
+💼 LinkedIn: https://linkedin.com/in/kirtan-panchal-309760320
+📧 Email: kirtanpanchal597@gmail.com
 
 ⭐ Let’s build something amazing together!
 
-🌐 Portfolio: https://portfolio-2-0-green.vercel.app/
-
-🐙 GitHub: https://github.com/kirtan597
-
-💼 LinkedIn: https://linkedin.com/in/kirtan-panchal-309760320
-
-📧 Email: kirtanpanchal597@gmail.com
-
 </div>
 <div align="center">
-
 ⭐ Show Your Support
-If you like my work, give a ⭐
+If you like my work, consider giving a ⭐
 
 Made with ❤️ by Kirtan Panchal
-© 2025 All rights reserved.
+© 2025 All Rights Reserved
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff"/>
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff" /> ```
