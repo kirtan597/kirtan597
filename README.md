@@ -16,14 +16,16 @@
 
 ## 🚀 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" />
+</div>
 
 🎓 **B.Tech in Computer Science Engineering**  
-💻 **Full Stack Developer** passionate about scalable applications  
-🌱 Currently mastering **MERN Stack, AI/ML & Cloud Technologies**  
+💻 **Full Stack Developer** focused on scalable & secure applications  
+🌱 Learning **MERN Stack, AI/ML & Cloud Technologies**  
 🤖 Exploring **AI integration in modern web apps**  
-🎨 UI/UX enthusiast with a modern design mindset  
-🚀 Always learning, building & improving  
+🎨 UI/UX enthusiast with modern design principles  
+🚀 Always learning, building, and improving  
 
 🌐 **Portfolio:** https://portfolio-2-0-green.vercel.app/
 
@@ -55,17 +57,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirtan597&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan597&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan597&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtan597&theme=tokyonight&utcOffset=5.5" />
-
 </div>
 
 <div align="center">
@@ -74,18 +72,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Featured Projects
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kirtan597&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</div>
 
----
+🛒 **Kcart – Next-Gen E-commerce Platform**  
+https://kcartt.netlify.app/
 
-## 📈 Contribution Graph
+**Tech Stack:** React 18 • Vite • Tailwind CSS • Material UI • Node.js • Express • MongoDB • JWT  
+**Features:** Secure Auth • Admin Dashboard • Analytics • Real-time Cart • Payments • Responsive UI  
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirtan597&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+🌐 Live Demo | 📁 GitHub  
+
+🎬 **KPXHub – Entertainment Platform**  
+https://kpxhub.netlify.app/
+
+**Tech Stack:** React • JavaScript • CSS • Figma  
+**Features:** Movies • Music • Infinite Scroll • Search & Filters  
+
+🌐 Live Demo | 📁 GitHub  
+
 </div>
 
 ---
@@ -98,60 +104,29 @@
 
 ---
 
-## 🎯 Current Focus
+## 📞 Connect With Me
 
 <div align="center">
 
-```js
-const kirtan = {
-  currentlyLearning: ["Next.js", "TypeScript", "Machine Learning", "DevOps"],
-  workingOn: ["Full Stack Web Apps", "AI Integration Projects"],
-  collaborating: ["Open Source", "Hackathons", "Tech Communities"],
-  askMeAbout: ["React", "Node.js", "UI/UX Design"],
-  funFact: "I debug with console.log() 😄"
-};
-</div>
-🌟 Featured Projects
-<div align="center">
-🛒 Kcart – Next-Gen E-commerce Platform
-https://kcartt.netlify.app/
+🌐 Portfolio: https://portfolio-2-0-green.vercel.app/  
+🐙 GitHub: https://github.com/kirtan597  
+💼 LinkedIn: https://linkedin.com/in/kirtan-panchal-309760320  
+📧 Email: kirtanpanchal597@gmail.com  
 
-Tech Stack:
-React 18 • Vite • Tailwind CSS • Material UI • Node.js • Express • MongoDB • JWT
-
-Features:
-✔ Secure User & Admin Authentication
-✔ Advanced Admin Dashboard & Analytics
-✔ Real-time Cart & Order Management
-✔ Multiple Payment Options
-✔ Fully Responsive & SEO Optimized
-
-🌐 Live Demo | 📁 GitHub
-
-🎬 KPXHub – Entertainment Platform
-https://kpxhub.netlify.app/
-
-Tech Stack: React • JavaScript • CSS • Figma
-Features: Movies • Music • Infinite Scroll • Search & Filters
-
-🌐 Live Demo | 📁 GitHub
+⭐ *Let’s build something amazing together!*
 
 </div>
-📞 Connect With Me
+
+---
+
 <div align="center">
-🌐 Portfolio: https://portfolio-2-0-green.vercel.app/
-🐙 GitHub: https://github.com/kirtan597
-💼 LinkedIn: https://linkedin.com/in/kirtan-panchal-309760320
-📧 Email: kirtanpanchal597@gmail.com
 
-⭐ Let’s build something amazing together!
+⭐ **Show Your Support**  
+If you like my work, consider giving a ⭐  
 
-</div>
-<div align="center">
-⭐ Show Your Support
-If you like my work, consider giving a ⭐
-
-Made with ❤️ by Kirtan Panchal
+Made with ❤️ by **Kirtan Panchal**  
 © 2025 All Rights Reserved
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff" /> ```
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff" />
