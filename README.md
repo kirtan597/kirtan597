@@ -96,7 +96,7 @@ https://github.com/kirtan597/J-A-R-V-I-S
 **Tech Stack:** Next.js 15 • Google Gemini 2.5 • Framer Motion • Tailwind CSS • TypeScript  
 **Features:** Holographic Cyberpunk UI • Live Code Visualization • Autonomous Reasoning • Voice/Chat Interface  
 
-🌐 [Live Demo](https://github.com/kirtan597/J-A-R-V-I-S) | 📁 [GitHub](https://github.com/kirtan597/J-A-R-V-I-S)
+🌐 [Live Demo](https://jarvisagent.netlify.app) | 📁 [GitHub](https://github.com/kirtan597/J-A-R-V-I-S)
 
 </div>
 
