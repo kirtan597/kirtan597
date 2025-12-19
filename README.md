@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=🎓+B.Tech+Computer+Science+Student;💻+Full+Stack+Web+Developer;🚀+AI+%26+ML+Enthusiast;🎨+UI/UX+Design+Lover;🌟+Open+Source+Contributor;🔥+Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=650&height=50&color=00D9FF&vCenter=true&pause=1000&size=22" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+
 
 </div>
 
