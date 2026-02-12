@@ -210,28 +210,25 @@ const status = {
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> J.A.R.V.I.S – Neural AI Interface
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Ai Buddy – Intelligent Pair Programmer
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kirtan597&repo=J-A-R-V-I-S&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kirtan597&repo=Ai-Buddy&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="100%" />
 
-**🤖 AI-Powered Assistant v2.5**
+**🧠 State-of-the-Art AI Chatbot**
 
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,framer&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,openai&theme=dark" />
 
 **✨ Key Features:**
-- 🎨 Holographic Cyberpunk UI
-- 💬 Google Gemini 2.5 Integration
-- 🎙️ Voice & Text Interface
-- 📊 Live Code Visualization
-- 🧠 Autonomous Reasoning
-- ⚡ Real-time Responses
+- ⚡ Zero-Latency Optimistic UI
+- 🎨 Cinematic Framer Motion
+- 🧠 Real-time OpenAI Streaming
+- 💎 Glassmorphic Design System
+- 🛠️ Type-Safe Architecture
+- 🌊 "Flow" State Scrolling
 - 🎭 Immersive Animations
 
 <div>
-<a href="https://jarvisagent.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/kirtan597/J-A-R-V-I-S" target="_blank">
+<a href="https://github.com/kirtan597/Ai-Buddy" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
