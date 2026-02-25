@@ -210,22 +210,23 @@ const status = {
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Ai Buddy – Intelligent Pair Programmer
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Ai Buddy – AI Chat Companion
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirtan597&repo=Ai-Buddy&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="100%" />
 
-**🧠 State-of-the-Art AI Chatbot**
+**🤖 Premium Full-Stack AI Chat Application**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,openai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,mongodb&theme=dark" />
 
 **✨ Key Features:**
-- ⚡ Zero-Latency Optimistic UI
-- 🎨 Cinematic Framer Motion
-- 🧠 Real-time OpenAI Streaming
-- 💎 Glassmorphic Design System
-- 🛠️ Type-Safe Architecture
-- 🌊 "Flow" State Scrolling
-- 🎭 Immersive Animations
+- ⚡ Real-time AI Streaming via OpenRouter
+- 🎨 AI Image Generation inside chat
+- 🔐 Google OAuth + NextAuth Authentication
+- 🧠 Persistent Conversation History (MongoDB)
+- 📱 Fully Mobile-Responsive & Touch-Friendly
+- 🌗 Light / Dark / System Theme Support
+- 📝 Rich Markdown with Syntax Highlighting
+- 🎭 Framer Motion + Lenis Scroll Animations
 
 <div>
 <a href="https://github.com/kirtan597/Ai-Buddy" target="_blank">
