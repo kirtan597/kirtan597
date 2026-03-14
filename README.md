@@ -277,7 +277,7 @@ const status = {
 <!-- Social Media Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150" />
 
-### 📧 Email Me: [kirtanpanchal597@gmail.com](mailto:kirtanpanchal597@gmail.com)
+### 📧 Email Me: [kirtan.2082006@gmail.com](mailto:kirtan.2082006@gmail.com)
 
 </div>
 
